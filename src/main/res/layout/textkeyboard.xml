@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="220dp"
+    android:background="#f2f4f8"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k1"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="a"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k2"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="b"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k3"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="c"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k4"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="d"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k5"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="e"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k6"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="f"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k7"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="g"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k8"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="h"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k9"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="i"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k10"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="g"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k11"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="a"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k12"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="b"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k13"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="c"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k14"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="d"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k15"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="e"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k16"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="f"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k17"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="g"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k18"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="h"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k19"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="a"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/kb"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="大"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k20"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="b"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k21"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="c"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k22"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="d"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k23"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="e"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k24"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="f"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k25"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="g"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/k26"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="h"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/ks"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="删"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:id="@+id/number"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="123"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="空格"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="40dp" />
+
+        <TextView
+            android:id="@+id/vis"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/itemclick_ui"
+            android:gravity="center"
+            android:text="隐藏"
+            android:textColor="@color/home_color_s"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+</LinearLayout>
